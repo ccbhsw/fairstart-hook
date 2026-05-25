@@ -1,0 +1,11 @@
+{
+  "lib/forge-std": {
+    "rev": "b3bc8b154382a75d0b0ef22d7fd4a0a5f0feee0e"
+  },
+  "lib/hookmate": {
+    "rev": "d8dcc7147533594eca7a51ba282a08f25e5befdd"
+  },
+  "lib/uniswap-hooks": {
+    "rev": "26dc8e53f812a1ca390d470342adb6cd8c3286ad"
+  }
+}
