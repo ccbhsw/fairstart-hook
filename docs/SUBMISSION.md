@@ -9,7 +9,7 @@
 
 ## Links To Fill After Deployment
 
-- GitHub:
+- GitHub: https://github.com/ccbhsw/fairstart-hook
 - X/Twitter account:
 - Announcement tweet:
 - Demo video:
